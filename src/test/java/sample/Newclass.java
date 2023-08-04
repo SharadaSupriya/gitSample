@@ -7,9 +7,6 @@ public class Newclass {
 	{
 		System.out.println("this is my newclass");
 	}
-	@Test
-	public void newclass2()
-	{
-		System.out.println("this is my newclass2");
-	}
+	
+	
 }
