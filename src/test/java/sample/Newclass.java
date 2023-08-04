@@ -12,6 +12,7 @@ public class Newclass {
 	{
 		System.out.println("this is my newclass2");
 	}
+	@Test
 	public void newclass3()
 	{
 		System.out.println("this is my newclass3");
