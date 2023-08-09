@@ -20,7 +20,10 @@ public class Demo {
     {
 	System.out.println("Hi this is my first demo2");
     }
-   
+    public void branchEx()
+    {
+    	System.out.println("This is branch 1");
+    }
 }
 
 
